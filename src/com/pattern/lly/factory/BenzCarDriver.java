@@ -7,7 +7,7 @@ package com.pattern.lly.factory;
  * Time: 下午2:57
  */
 public class BenzCarDriver implements Driver {
-
+//this is a test
     @Override
     public Car driver() {
         return new BenzCar();
